@@ -1,0 +1,36 @@
+{
+  "kind": "collectionType",
+  "collectionName": "navbar_items",
+  "info": {
+    "singularName": "navbar-item",
+    "pluralName": "navbar-items",
+    "displayName": "NAVBAR_ITEM",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "title": {
+      "type": "string",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    },
+    "slug": {
+      "type": "string",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    }
+  }
+}

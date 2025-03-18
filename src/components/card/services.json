@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_card_services",
+  "info": {
+    "displayName": "SERVICES",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "string"
+    },
+    "Link": {
+      "type": "string"
+    }
+  }
+}
